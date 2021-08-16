@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshGadage16
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Open Source Project
 
 <!---
